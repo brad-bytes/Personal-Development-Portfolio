@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Brad Seftel — Web Developer</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="styles/main.css" />
+</head>
+<body>
+
+  <!-- NAV -->
+  <nav class="nav">
+    <span class="nav-logo">BS</span>
+    <ul class="nav-links">
+      <li><a href="#about">About</a></li>
+      <li><a href="#experience">Experience</a></li>
+      <li><a href="#skills">Skills</a></li>
+      <li><a href="#education">Education</a></li>
+      <li><a href="#contact">Contact</a></li>
+    </ul>
+    <button class="theme-toggle" id="themeToggle" aria-label="Toggle dark mode">
+      <span class="theme-toggle__icon theme-toggle__icon--light">☀️</span>
+      <span class="theme-toggle__icon theme-toggle__icon--dark">🌙</span>
+    </button>
+  </nav>
+
+  <!-- HERO -->
+  <section class="hero" id="hero">
+    <div class="hero__photo-wrap">
+      <img src="assets/biopic.jpg" alt="Brad Seftel" class="hero__photo" id="heroPhoto" />
+    </div>
+    <div class="hero__text">
+      <p class="hero__eyebrow">Web Developer &amp; RMT</p>
+      <h1 class="hero__name">Brad Seftel</h1>
+      <p class="hero__tagline">Building responsive, user-focused web experiences since 2000.</p>
+      <div class="hero__cta">
+        <a href="#contact" class="btn btn--primary">Get in touch</a>
+        <a href="#experience" class="btn btn--ghost">View work</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- ABOUT -->
+  <section class="section" id="about">
+    <div class="container">
+      <h2 class="section__title">About</h2>
+      <p class="section__body">
+        I'm a web developer and Registered Massage Therapist based in Stratford, ON. I bring a client-first mindset to every project — whether it's a booking platform, a local business site, or a custom application. I'm equally comfortable in a terminal or a treatment room, and I believe a client's success is my own.
+      </p>
+    </div>
+  </section>
+
+  <!-- EXPERIENCE -->
+  <section class="section section--alt" id="experience">
+    <div class="container">
+      <h2 class="section__title">Experience</h2>
+      <div class="timeline">
+
+        <article class="timeline__item">
+          <div class="timeline__meta">
+            <span class="timeline__date">2021 — Present</span>
+            <span class="timeline__stack">WordPress · SEO · Analytics</span>
+          </div>
+          <div class="timeline__content">
+            <h3 class="timeline__role">Website Development &amp; Design</h3>
+            <p class="timeline__company">Halsa Wellness</p>
+            <ul class="timeline__bullets">
+              <li>Designed and maintained business website using WordPress</li>
+              <li>Integrated online booking system, boosting client retention</li>
+              <li>Implemented SEO strategy that increased visibility and local rankings</li>
+            </ul>
+          </div>
+        </article>
+
+        <article class="timeline__item">
+          <div class="timeline__meta">
+            <span class="timeline__date">2007 — Present</span>
+            <span class="timeline__stack">HTML · CSS · JS · Squarespace</span>
+          </div>
+          <div class="timeline__content">
+            <h3 class="timeline__role">Registered Massage Therapist &amp; Yoga Instructor</h3>
+            <p class="timeline__company">Independent Practice</p>
+            <ul class="timeline__bullets">
+              <li>Built a personal health &amp; wellness business with a strong online presence</li>
+              <li>Created a YouTube channel with exercises and yoga classes</li>
+              <li>Developed a structured curriculum to train and certify yoga teachers</li>
+            </ul>
+          </div>
+        </article>
+
+        <article class="timeline__item">
+          <div class="timeline__meta">
+            <span class="timeline__date">2003 — 2007</span>
+            <span class="timeline__stack">HTML · C# · ActionScript · SQL</span>
+          </div>
+          <div class="timeline__content">
+            <h3 class="timeline__role">Internet Application Developer</h3>
+            <p class="timeline__company">eSolutions</p>
+            <ul class="timeline__bullets">
+              <li>Developed safety training software</li>
+              <li>Improved safety training participation by increasing accessibility</li>
+              <li>Reduced workplace safety infractions through increased awareness</li>
+            </ul>
+          </div>
+        </article>
+
+        <article class="timeline__item">
+          <div class="timeline__meta">
+            <span class="timeline__date">2000 — Present</span>
+            <span class="timeline__stack">HTML · CSS · JS · Flash · Illustrator</span>
+          </div>
+          <div class="timeline__content">
+            <h3 class="timeline__role">Freelance Web Developer</h3>
+            <p class="timeline__company">Independent</p>
+            <ul class="timeline__bullets">
+              <li>Built a video game for Maple Leaf Foods in collaboration with a local design team</li>
+              <li>Wrote code for a street lights purchasing application for the City of Cambridge</li>
+              <li>Delivered websites for a variety of local small businesses</li>
+            </ul>
+          </div>
+        </article>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- SKILLS -->
+  <section class="section" id="skills">
+    <div class="container">
+      <h2 class="section__title">Skills</h2>
+      <div class="skills-grid">
+        <div class="skill-group">
+          <h3 class="skill-group__title">Languages</h3>
+          <ul class="skill-list">
+            <li>HTML</li><li>CSS</li><li>JavaScript</li><li>TypeScript</li><li>C#</li><li>C++</li>
+          </ul>
+        </div>
+        <div class="skill-group">
+          <h3 class="skill-group__title">Platforms &amp; Tools</h3>
+          <ul class="skill-list">
+            <li>WordPress</li><li>Squarespace</li><li>Node.js</li><li>Git / GitHub</li><li>Neovim</li><li>VS Code</li>
+          </ul>
+        </div>
+        <div class="skill-group">
+          <h3 class="skill-group__title">Emerging</h3>
+          <ul class="skill-list">
+            <li>AI Development</li><li>Prompt Engineering</li><li>MCP</li><li>Machine Learning (JS)</li><li>Claude Code</li>
+          </ul>
+        </div>
+        <div class="skill-group">
+          <h3 class="skill-group__title">Systems</h3>
+          <ul class="skill-list">
+            <li>Arch Linux</li><li>Windows</li><li>SEO</li><li>Analytics</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- EDUCATION -->
+  <section class="section section--alt" id="education">
+    <div class="container">
+      <h2 class="section__title">Education</h2>
+      <div class="edu-grid">
+
+        <div class="edu-card">
+          <span class="edu-card__date">2025</span>
+          <h3 class="edu-card__school">Keyin College</h3>
+          <p class="edu-card__program">Digital Health Administration — Summer Internship</p>
+          <p class="edu-card__detail">Electronic health records, healthcare technology, data management, and digital tools for healthcare efficiency.</p>
+        </div>
+
+        <div class="edu-card">
+          <span class="edu-card__date">2010 – 2012</span>
+          <h3 class="edu-card__school">CCMH, Cambridge ON</h3>
+          <p class="edu-card__program">Diploma — Registered Massage Therapy</p>
+          <p class="edu-card__detail">Anatomy, physiology, therapeutic techniques, and clinical practice.</p>
+        </div>
+
+        <div class="edu-card">
+          <span class="edu-card__date">2001 – Present</span>
+          <h3 class="edu-card__school">Continuing Education</h3>
+          <p class="edu-card__program">Conestoga College · freeCodeCamp · Frontend Masters · Udemy · Zero to Mastery</p>
+          <p class="edu-card__detail">Node.js, TypeScript, AI development, prompt engineering, MCP, machine learning with JavaScript.</p>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- CONTACT -->
+  <section class="section" id="contact">
+    <div class="container container--narrow">
+      <h2 class="section__title">Contact</h2>
+      <p class="section__body">Interested in working together? I'm open to freelance projects and full-time opportunities.</p>
+      <div class="contact-links">
+        <a href="mailto:bseftel@gmail.com" class="contact-link">
+          <span class="contact-link__label">Email</span>
+          <span class="contact-link__value">bseftel@gmail.com</span>
+        </a>
+        <a href="tel:2267515860" class="contact-link">
+          <span class="contact-link__label">Phone</span>
+          <span class="contact-link__value">(226) 751-5860</span>
+        </a>
+        <div class="contact-link">
+          <span class="contact-link__label">Location</span>
+          <span class="contact-link__value">Stratford, ON</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <footer class="footer">
+    <p>© 2026 Brad Seftel · Built with HTML, CSS &amp; TypeScript</p>
+  </footer>
+
+  <script type="module" src="dist/main.js"></script>
+</body>
+</html>

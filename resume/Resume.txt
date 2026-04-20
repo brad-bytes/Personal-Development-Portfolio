@@ -1,0 +1,66 @@
+﻿Brad Seftel R.M.T
+Web Developer and Registered Massage Therapist with many years of experience. Excited about emerging areas in both health and technology. I enjoy building responsive, user-focused websites and applications. As I see it, a client's success is also my own.
+	198 Gregory Cr.
+Stratford, ON
+(226) 751-5860
+bseftel@gmail.com
+	EXPERIENCE
+Halsa Wellness, Website Development & Design
+September 2021 - PRESENT
+Designed and maintained business website using WordPress
+ ● integrated online booking system, boosting client retention
+ ● implemented SEO that increased visibility and local rankings
+ ● ^ repeat booking, client retention and public awareness
+ ● </> WordPress, SEO plugins, analytics
+
+
+Registered Massage Therapist & Yoga Instructor
+September 2007 - PRESENT
+● built a personal health & wellness business with strong online presence
+● created a youTube channel with exercises and yoga classes
+● developed a structured curriculum to train & certify yoga teachers 
+● Designed a two year course to train and certify Yoga Teachers
+● </> HTML, CCS, JavaScript, Squarespace, Patreon, YouTube
+.
+eSolutions, Internet Application Developer
+MONTH 2003 - 2007
+ ● developed safety training software
+ ● ^ Improved safety training participation by increasing accessibility 
+ ● reduced workplace safety infractions via increased safety awareness
+ ● </> HTML, CCS, ActionScript, C#, SQL
+
+
+Freelance Web Developer
+MONTH 2000 - PRESENT
+● built a video game for Maple Leaf Foods, collaborated with a local  design team to deliver finished product
+● collaborated with designers to write the code for street lights purchasing application for the city of Cambridge
+● built a variety of websites for local small businesses
+● ^ in all cases I prioritize client satisfaction and user engagement, resulting in order to increase
+● </> HTML, CSS, Flash, JavaScript, Adobe Illustrator & Photoshop
+.
+EDUCATION
+Keyin College, St Johns NFLD — Summer Internship
+June 2025 -August 2025
+Recently studied at Keyin College, focusing on the Digital Health Administration program. This program provides me with a comprehensive understanding of electronic health records, healthcare technology, data management, and administrative processes within the healthcare sector. Learned practical skills relevant to managing and utilizing digital tools to enhance healthcare efficiency and patient care.
+CCMH, Cambridge, ON, — Diploma
+September 2010 - June 2012
+Completed in-depth coursework in anatomy, physiology, therapeutic techniques while developing a strong foundation in client care and wellness. Gained hands-on experience through clinical practice, emphasizing holistic health and evidence-based treatment approaches.
+Conestoga College | FreecodeCamp | Front End Masters | Udemy | Zero to Mastery
+September 2001 - Present
+I have completed a variety of continuing education courses to stay current and expand my skills in software and web development. These courses include subjects such as nodeJS, TypScript, AI development and much more. This demonstrates my commitment to lifelong learning and adapting to evolving technologies.
+
+
+St Jeromes, Kitchener, ON, — Diploma
+	SKILLS & DEV TOOLS
+* Word Press, Squarespace.
+* Arch Linux and Windows.
+* Nvim, VS Code, Cursor and Claude Code, Nodejs
+* Git, Github and youTube Studio
+CONTINUING EDUCATION
+Practical Prompt Engineering
+Building A.I Agents
+Cursor and Claude Code: Professional A.I Setup
+Intro To MCP
+Machine Learning with JavaScript
+CODE 
+HTML, CSS, JavaScript, TypScript, C++, C
